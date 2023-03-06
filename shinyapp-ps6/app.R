@@ -4,7 +4,8 @@ library(ggplot2)
 library(dplyr)
 
 # Load data
-data <- read.delim("C:/Users/damid/OneDrive/Desktop/Info 201/Problem Sets/ps6-shinyapp-damidia/dataset.bz2")
+
+data <- read.delim("dataset.bz2")
 
 # Define UI
 ui <- fluidPage(

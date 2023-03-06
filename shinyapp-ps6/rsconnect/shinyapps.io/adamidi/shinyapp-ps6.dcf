@@ -1,0 +1,13 @@
+name: shinyapp-ps6
+title: shinyapp-ps6
+username:
+account: adamidi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8485964
+bundleId: 6920477
+url: https://adamidi.shinyapps.io/shinyapp-ps6/
+when: 1678091230.91248
+lastSyncTime: 1678091230.9125
+asMultiple: FALSE
+asStatic: FALSE
